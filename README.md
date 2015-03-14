@@ -1,7 +1,7 @@
 # swilibs
-swi Prolog libs
+My swi Prolog libs
 
-Procedural Reasonning System for Belief Desire Intension agent system
-List and String predicates 
-Dumb pathfinding for testing
-Statecharts
+1. Procedural Reasonning System for Belief Desire Intension agent system
+2. List and String predicates 
+3. Dumb pathfinding for testing
+4. Statecharts
